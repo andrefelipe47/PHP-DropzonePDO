@@ -16,6 +16,6 @@ PHP 5.4 ou superior
 André Felipe R.S. e Martins - github.com/andrefelipe47
 
 ### Licença
-Está aplicação possui a licença de Código aberto, disponível o uso para qualquer finalidade, permitido a alteração parcial ou total do código fonte.
+Está aplicação possui a licença de código aberto, disponível o uso para qualquer finalidade, permitido a alteração parcial ou total do código fonte.
 
 
